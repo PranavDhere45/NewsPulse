@@ -4,7 +4,7 @@ Welcome to **NewsPulse**!
 NewsPulse is a modern Android news application built using **Jetpack Compose** and **Material 3**, following **MVVM architecture** and the **Repository pattern**.  
 The app focuses on clean architecture, state-driven UI, and local data persistence using **Room Database**.
 
-This project is designed as a **learning-focused yet professional Android application**, inspired by structured projects like *MovieHouse*, but scoped for clarity, explainability, and strong backend fundamentals.
+This project is designed as a **learning-focused yet professional Android application**, but scoped for clarity, explainability, and strong backend fundamentals.
 
 ---
 
@@ -64,12 +64,9 @@ This project is designed as a **learning-focused yet professional Android applic
 
 ## 🧠 Architecture Overview
 
-UI (Compose Screens)
-↓
-ViewModel (StateFlow)
-↓
-Repository
-↓
+UI (Compose Screens)-->
+ViewModel (StateFlow)-->
+Repository-->
 Remote API / Room Database
 
 
