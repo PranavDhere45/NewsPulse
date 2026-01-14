@@ -12,29 +12,19 @@ This project is designed as a **learning-focused yet professional Android applic
 
 ### ☀️ Light Mode
 
-| Home                                      | Search                                        | Detail                                        | Bookmarks                                          |
-|-------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------------|
-| ![Light Home](screenshots/light_home.jpg) | ![Light Search](screenshots/light_search.jpg) | ![Light Detail](screenshots/light_detail.jpg) | ![Light Bookmarks](screenshots/light_bookmark.jpg) |
+| Home                                      | Search                                        | Detail                                        | Bookmarks                                          | Error                                       |
+|-------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------------|---------------------------------------------|
+| ![Light Home](screenshots/light_home.jpg) | ![Light Search](screenshots/light_search.jpg) | ![Light Detail](screenshots/light_detail.jpg) | ![Light Bookmarks](screenshots/light_bookmark.jpg) | ![Light Error](screenshots/light_error.jpg) |
 
 ---
 
 ### 🌙 Dark Mode
 
-| Home                                    | Search                                      | Detail                                      | Bookmarks                                        |
-|-----------------------------------------|---------------------------------------------|---------------------------------------------|--------------------------------------------------|
-| ![Dark Home](screenshots/dark_home.jpg) | ![Dark Search](screenshots/dark_search.jpg) | ![Dark Detail](screenshots/dark_detail.jpg) | ![Dark Bookmarks](screenshots/dark_bookmark.jpg) |
+| Home                                    | Search                                      | Detail                                      | Bookmarks                                        | Error                                     |
+|-----------------------------------------|---------------------------------------------|---------------------------------------------|--------------------------------------------------|-------------------------------------------|
+| ![Dark Home](screenshots/dark_home.jpg) | ![Dark Search](screenshots/dark_search.jpg) | ![Dark Detail](screenshots/dark_detail.jpg) | ![Dark Bookmarks](screenshots/dark_bookmark.jpg) | ![Dark Error](screenshots/dark_error.jpg) |
 
----
 
-### ⚠️ Error Handling (API Failure / No Internet)
-
-The application gracefully handles both **API failure** and **no network connectivity** using a unified error state UI.
-
-#### ☀️ Light Mode
-![Error Light](screenshots/light_error.jpg)
-
-#### 🌙 Dark Mode
-![Error Dark](screenshots/dark_error.jpg)
 
 ---
 
